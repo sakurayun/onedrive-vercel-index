@@ -1,6 +1,6 @@
 {
   "icon": "/icons/128.png",
-  "title": "Spencer's OneDrive",
+  "title": "录播下载中心",
   "baseDirectory": "/Public",
   "maxItems": 100,
   "googleFontSans": "Inter",
@@ -13,15 +13,11 @@
     "/🌞 Private folder/u-need-a-password",
     "/🥟 Some test files/Protected route"
   ],
-  "email": "mailto:spencer.wushangbo@gmail.com",
+  "email": "mailto:2063850823@qq.com",
   "links": [
     {
-      "name": "GitHub",
-      "link": "https://github.com/spencerwooo/onedrive-vercel-index"
-    },
-    {
-      "name": "Telegram",
-      "link": "https://t.me/realSpencerWoo"
+      "name": "免费服务期间的录播文件",
+      "link": "https://dl.imvup.cn"
     }
   ]
 }
