@@ -1,7 +1,8 @@
 {
+  "userPrincipalName": "bu6m3d@cuea.org.cn"
   "icon": "/icons/128.png",
   "title": "录播下载中心",
-  "baseDirectory": "/Public",
+  "baseDirectory": "/",
   "maxItems": 100,
   "googleFontSans": "Inter",
   "googleFontMono": "Fira Mono",
