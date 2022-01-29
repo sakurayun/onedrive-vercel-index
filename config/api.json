@@ -1,6 +1,6 @@
 {
   "clientId": "d2592b5f-1370-4c0c-b64d-e48c9e85abd1",
-  "obfuscatedClientSecret": "K42~MCXWYE9S.~x0Od2snrxPDJ4CHI_y-k",
+  "obfuscatedClientSecret": "U2FsdGVkX1+0V78QKy8uXaFRQFYy2KfrG27UfCdhW1r2W1BeUZ9LuRFI6enpid81IzUry+yfE75wt08mH8rlFQ==",
   "redirectUri": "http://localhost",
   "authApi": "https://login.partner.microsoftonline.cn/common/oauth2/v2.0/token",
   "driveApi": "https://microsoftgraph.chinacloudapi.cn/v1.0/me/drive",
